@@ -14,7 +14,7 @@ FENVI WIFI/BT PCIe card-  native support<br />
 
 
 Bios Setting: <b>Disable these</b> 
-1. Serial Port
+1. Serial / Parallel Port
 2. Wake by RTC 
 3. Above 4G Decoding
 4. SATA/NVME Raid
