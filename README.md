@@ -15,15 +15,19 @@ FENVI WIFI/BT PCIe card-  native support<br />
 
 Bios Setting: <b>Disable these</b> 
 1. Serial Port
-2. Above 4G Decoding
-4. CSM
-5. Secure Boot
-6. Fast Boot
+2. Wake by RTC 
+3. Above 4G Decoding
+4. SATA/NVME Raid
+5. SATA Hot Plug / Hot Swap
+6. SATA Aggressive Link Power Management
+7. CSM
+8. Secure Boot
+9. Fast Boot
 
 Bios Setting: <b>Enable these</b> 
 1. Wake on Keyboard
 2. Wake on Mouse (two clicks)
-4. Wake on Lan
+3. Wake on Lan
 <br /><br />
 
 <b>ATTENTION: AMD Ryzen CPU physical cores number: </b>, https://github.com/AMD-OSX/AMD_Vanilla<br />
