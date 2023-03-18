@@ -55,12 +55,17 @@ BA<b>08</b>0000 0090<br />
 BA<b>08</b>0000 00<br />
 
 <br /><br />
-Bios Setting: <b>disable</b> 
+Bios Setting: <b>Disable these</b> 
 1. Serial Port
 2. Above 4G Decoding
 4. CSM
 5. Secure Boot
 6. Fast Boot
+
+Bios Setting: <b>Enable these</b> 
+1. Wake on Keyboard
+2. Wake on Mouse (two clicks)
+4. Wake on Lan
 
 
 <br /><br />
