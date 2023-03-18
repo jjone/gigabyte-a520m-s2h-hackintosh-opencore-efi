@@ -11,8 +11,22 @@ Radeon RX 560 2GB-  native support<br />
 FENVI WIFI/BT PCIe card-  native support<br />
 <br />
 
-<b>AMD Ryzen CPU physical cores count value need attention</b>,<br />
-https://github.com/AMD-OSX/AMD_Vanilla<br />
+
+
+Bios Setting: <b>Disable these</b> 
+1. Serial Port
+2. Above 4G Decoding
+4. CSM
+5. Secure Boot
+6. Fast Boot
+
+Bios Setting: <b>Enable these</b> 
+1. Wake on Keyboard
+2. Wake on Mouse (two clicks)
+4. Wake on Lan
+<br /><br />
+
+<b>ATTENTION: AMD Ryzen CPU physical cores number: </b>, https://github.com/AMD-OSX/AMD_Vanilla<br />
 Find the four (algrey - Force cpuid_cores_per_package in Config.plist) patches and alter the Replace value only.
 
 <table>
@@ -54,21 +68,7 @@ BA<b>08</b>0000 0000<br />
 BA<b>08</b>0000 0090<br />
 BA<b>08</b>0000 00<br />
 
-<br /><br />
-Bios Setting: <b>Disable these</b> 
-1. Serial Port
-2. Above 4G Decoding
-4. CSM
-5. Secure Boot
-6. Fast Boot
-
-Bios Setting: <b>Enable these</b> 
-1. Wake on Keyboard
-2. Wake on Mouse (two clicks)
-4. Wake on Lan
-
-
-<br /><br />
+<br /><br /><b>Working: everything plus,</b>
 DSDT patched for sleep/wake  - fix instant wake due to GPP0 GPP8.
 Sleep/Wake fully working. 
 <br />(Press any key/power button will wake up from sleep:)
