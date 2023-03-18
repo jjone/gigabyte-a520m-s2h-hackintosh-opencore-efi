@@ -71,7 +71,7 @@ BA<b>08</b>0000 00<br />
 <br /><br /><b>Working: everything plus,</b>
 DSDT patched for sleep/wake  - fix instant wake due to GPP0 GPP8.
 Sleep/Wake fully working. 
-<br />(Press any key/power button will wake up from sleep:)
+<br />("Find My" App wakes up. Also press any key/power button will wake up from sleep:)
 <br /><br />! Remember to remove the boot-args "-v" in Config.plist after installation.
 <br /><br /><br />
 Read this guide, https://dortania.github.io/OpenCore-Install-Guide/<br />
