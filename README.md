@@ -72,3 +72,8 @@ Bios Setting: <b>Enable these</b>
 DSDT patched for sleep/wake  - fix instant wake due to GPP0 GPP8.
 Sleep/Wake fully working. 
 <br />(Press any key/power button will wake up from sleep:)
+<br /><br />! Remember to remove the boot-args "-v" in Config.plist after installation.
+<br /><br /><br />
+Read this guide, https://dortania.github.io/OpenCore-Install-Guide/<br />
+and check https://reddit.com/r/hackintosh/<br />
+generate SMBIOS, https://github.com/corpnewt/GenSMBIOS<br />
