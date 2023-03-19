@@ -1,5 +1,5 @@
 # gigabyte-a520m-s2h-hackintosh-opencore-efi
-<img src="https://github.com/jjone/gigabyte-a520m-s2h-hackintosh-opencore-efi/blob/main/thumbnail_2023-03-18_15-48-47.jpg?raw=true"><br />
+<img src="https://github.com/jjone/gigabyte-a520m-s2h-hackintosh-opencore-efi/blob/main/macpro7,1 2023-03-19_12-56-37.jpg?raw=true"><br />
 <H1>macOS Ventura 13.2.1 Hackintosh </H1>
 
 
